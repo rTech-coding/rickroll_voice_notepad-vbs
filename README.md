@@ -60,3 +60,5 @@ shl.Run "cmd.exe /k curl ascii.live/rick"
 Set shl = Nothing
 Set voz = Nothing
 `
+
+## Creado por rTech
